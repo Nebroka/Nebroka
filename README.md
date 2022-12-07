@@ -95,3 +95,7 @@ I basically only use Java atm cuz of school but yea 🤯
                 />
             </a></div>
 <br />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nebroka&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<br/>

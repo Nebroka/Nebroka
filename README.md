@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I’m a new and upcoming full-stack developer who has too much free time and silly ideas 
+I’m currently a high school student who has too much free time and silly ideas
 
 I'm not really too good at anything but i manage using a couple of different languages :)
 

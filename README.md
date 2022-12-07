@@ -95,6 +95,3 @@ I basically only use Java atm cuz of school but yea 🤯
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

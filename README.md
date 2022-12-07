@@ -28,7 +28,7 @@ I basically only use Java atm cuz of school but yea 🤯
 - 🔭 I’m currently working on [my stupid fabric mod](https://github.com/nebroka/kekmod)  
   
 
-- 🌱 Looking into learning JavaScript / Node.js & more front-end languages  
+- 🌱 Looking into learning JavaScript / Node.js & more front-end tools / languages  
   
 
 - 👍  

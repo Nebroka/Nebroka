@@ -76,7 +76,13 @@ I basically only use Java atm cuz of school but yea 🤯
 
 </td></tr></table>  
 
-<br/>  
+<br/>
+
+<br />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nebroka&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
 
   
 
@@ -94,8 +100,4 @@ I basically only use Java atm cuz of school but yea 🤯
                     align="left"
                 />
             </a></div>
-<br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nebroka&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-<br/>

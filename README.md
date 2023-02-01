@@ -25,7 +25,7 @@ I basically only use Java atm cuz of school but yea 🤯
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [my stupid fabric mod](https://github.com/nebroka/kekmod)  
+- 🔭 I’m currently working on nothing lul  
   
 
 - 🌱 Looking into learning JavaScript / Node.js & more front-end tools / languages  
